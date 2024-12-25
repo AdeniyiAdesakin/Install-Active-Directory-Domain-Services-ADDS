@@ -1,5 +1,5 @@
-<h1>Install Active Directory Domain Services (ADDS)</h1>
-<p>This tutorial outlines how to install Window's Active Directory Domain Services - a directory service used in Windows-based networks to manage and organize resources such as computers, users, groups, and services.<br /></p>
+<h1>Install Active Directory Domain Services and Join Client's Computer to Active Directory</h1>
+<p>This tutorial outlines how to install Window's Active Directory Domain Services - a directory service used in Windows-based networks to manage and organize resources such as computers, users, groups, and services and join a client's computer to Active directory.<br/></p>
 
 <P>1. From the server manager dashboard on Windows server 2019, click on Manage and on Add roles and Features</P>
 <p align="center"><img src="https://i.imgur.com/BFw3fUz.png" height="50%" width="50%"/>
