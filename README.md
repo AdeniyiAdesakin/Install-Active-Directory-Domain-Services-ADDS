@@ -7,7 +7,7 @@
 <p>2. On the before you begin screen, just click NEXT.</p>
 <p align="center"><img src="https://i.imgur.com/gaMZiFi.png" height="50%" width="50%"/>
 
-<p>3. On the Installation Type screen, make sure the Role-based or feature-based installation is selected, then click <b>NEXT.</b>.</p>
+<p>3. On the Installation Type screen, make sure the Role-based or feature-based installation is selected, then click NEXT.</p>
 <p align="center"><img src="https://i.imgur.com/ZvY3YRt.png" height="50%" width="50%"/>
 
 <p>4. On the Select destination server screen, make sure the select a server from the server pool is selected and select the server you are trying to install Adds from the server pool, then click NEXT.</p>
